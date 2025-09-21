@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+  font-style: italic;
+}
+
+.list-group-item span {
+  cursor: pointer;
+}
